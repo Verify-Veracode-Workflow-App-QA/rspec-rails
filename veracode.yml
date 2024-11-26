@@ -1,3 +1,7 @@
+actions:
+  ruby:
+    ruby_version: '3.3.4'
+    bundle_version: '2.5.7'
 veracode_static_scan:
   push:
     trigger: true
